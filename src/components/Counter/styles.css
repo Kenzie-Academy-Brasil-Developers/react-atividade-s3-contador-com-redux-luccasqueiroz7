@@ -1,0 +1,17 @@
+.counters {
+  display: flex;
+  gap: 15px;
+}
+
+.counters > button {
+  width: 70px;
+  height: 60px;
+
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(172, 255, 47, 0.884);
+
+  color: rgba(255, 255, 255, 0.897);
+  font-size: 30px;
+  font-weight: 700;
+}
